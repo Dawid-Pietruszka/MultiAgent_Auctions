@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\obj\Debug\MAS_Coursework.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\obj\Debug\MAS_Coursework.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\bin\Debug\MAS_Coursework.exe.config
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\bin\Debug\MAS_Coursework.exe
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\bin\Debug\MAS_Coursework.pdb
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\bin\Debug\ActressMas.dll
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\bin\Debug\ActressMas.xml
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\obj\Debug\MAS_Coursework.csproj.CopyComplete
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\obj\Debug\MAS_Coursework.exe
+C:\Users\admin\Desktop\Multiagent\Coursework\MAS_Coursework\MAS_Coursework\obj\Debug\MAS_Coursework.pdb
